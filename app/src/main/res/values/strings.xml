@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nama Pupuk Bunga</string>
+    <string name="action_about">About Me</string>
+    <string name="action_grid">Grid View</string>
+    <string name="action_card">Card View</string>
+    <string name="nama">Nama: Addin Khairi Sihotang</string>
+    <string name="email">Email: addinks13@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="banner">Nama-nama Pupuk Bunga</string>
+    <string name="body">Body</string>
+    <string name="subject">Subject</string>
+    <string name="title">Title</string>
+    <string name="email2">addinks13@gmail.com</string>
+    <string name="header">About Me</string>
+    <string name="textview">Sample</string>
+    <string name="detailheader">Detail Pupuk</string>
+    <string name="button">Share</string>
+    <string name="cardview">Nama Pupuk Bunga: CardView</string>
+    <string name="gridView">Nama Pupuk Bunga: GridView</string>
+    <string name="list">List View</string>
+</resources>
